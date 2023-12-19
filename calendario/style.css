@@ -1,0 +1,49 @@
+table{
+    border-collapse: collapse;
+}
+
+table th{
+    border: medium solid black; 
+    text-align: center; 
+    background-color: #CCCCCC;
+}
+
+.red{
+    border: medium solid black; 
+    text-align: center;
+    background-color: red;
+}
+
+.error {
+    color: red;
+}
+
+.blue{
+    border: medium solid black; 
+    text-align: center;
+    background-color: blue;
+}
+
+.green{
+    border: medium solid black; 
+    text-align: center;
+    background-color: green;
+}
+
+.yellow{
+    border: medium solid black; 
+    text-align: center;
+    background-color: yellow;
+}
+
+.white{
+    border: medium solid black; 
+    text-align: center;
+    background-color: white;
+}
+
+.domingo{
+    border: medium solid black; 
+    text-align: center;
+    background-color: rgb(255, 152, 129);
+}
